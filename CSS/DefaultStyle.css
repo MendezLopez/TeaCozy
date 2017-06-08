@@ -31,16 +31,13 @@ header{
     justify-content: space-between;
 }
 
-
-header ul li{
+.list{
+    margin-right: 15px;
     margin: 5px;
     display: inline;
     text-decoration: underline;
-    
-}
-
-.list{
-    margin-right: 15px;
+    color: seashell;
+    padding: 5px;
 }
 
 
